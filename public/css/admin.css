@@ -1,0 +1,12 @@
+.login-form {
+  max-width: 500px;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.custom-center {
+  text-align: center;
+  margin-bottom: 20px;
+}
